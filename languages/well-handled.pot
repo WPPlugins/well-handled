@@ -1,0 +1,1949 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: well-"
+"handled\n"
+"POT-Creation-Date: "
+"2017-07-11 10:55-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: "
+"Blobfolio, LLC "
+"<hello@blobfolio.com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.0.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: ."
+"sass-cache\n"
+"X-Poedit-"
+"SearchPathExcluded-1: "
+"bin\n"
+"X-Poedit-"
+"SearchPathExcluded-2: "
+"node_modules\n"
+"X-Poedit-"
+"SearchPathExcluded-3: "
+"tests\n"
+"X-Poedit-"
+"SearchPathExcluded-4: "
+"css\n"
+"X-Poedit-"
+"SearchPathExcluded-5: "
+"js\n"
+"X-Poedit-"
+"SearchPathExcluded-6: "
+"skel\n"
+"X-Poedit-"
+"SearchPathExcluded-7: "
+"lib/vendor\n"
+"X-Poedit-"
+"SearchPathExcluded-8: "
+"img\n"
+"X-Poedit-"
+"SearchPathExcluded-9: "
+"scss\n"
+
+#: admin/activity.php:32
+#: admin/activity.php:113
+#: admin/errors.php:84
+msgid "Date"
+msgstr ""
+
+#: admin/activity.php:33
+#: admin/activity.php:129
+#: admin/activity.php:228
+#: admin/pro.php:111
+msgid "Email"
+msgstr ""
+
+#: admin/activity.php:34
+#: admin/activity.php:135
+#: admin/activity.php:236
+#: admin/pro.php:103
+msgid "Name"
+msgstr ""
+
+#: admin/activity.php:35
+#: admin/activity.php:141
+#: admin/activity.php:244
+#: admin/errors.php:104
+#: admin/stats.php:142
+#: admin/stats.php:175
+msgid "Subject"
+msgstr ""
+
+#: admin/activity.php:36
+#: admin/activity.php:114
+#: admin/activity.php:253
+#: admin/stats.php:140
+#: admin/stats.php:155
+#: lib/blobfolio/wp/wh/custom.php:88
+#: lib/blobfolio/wp/wh/custom.php:90
+msgid "Template"
+msgstr ""
+
+#: admin/activity.php:92
+msgid ""
+"Well-Handled: Activity"
+msgstr ""
+
+#: admin/activity.php:95
+msgid ""
+"The sending activity is "
+"being fetched. Hold "
+"tight."
+msgstr ""
+
+#: admin/activity.php:104
+msgid "Sent"
+msgstr ""
+
+#: admin/activity.php:108
+msgid ""
+"No messages matched the "
+"search. Sorry."
+msgstr ""
+
+#: admin/activity.php:115
+#: admin/activity.php:147
+#: admin/errors.php:86
+#: admin/errors.php:120
+msgid "Message"
+msgstr ""
+
+#: admin/activity.php:116
+#: admin/settings-roles.php:79
+#: lib/blobfolio/wp/wh/admin.php:560
+#: lib/blobfolio/wp/wh/admin.php:561
+msgid "Stats"
+msgstr ""
+
+#: admin/activity.php:149
+#: admin/errors.php:121
+msgid "View"
+msgstr ""
+
+#: admin/activity.php:159
+msgid "Built In"
+msgstr ""
+
+#: admin/activity.php:163
+msgid "Sent In"
+msgstr ""
+
+#: admin/activity.php:167
+#: admin/activity.php:267
+#: admin/settings.php:82
+msgid "Method"
+msgstr ""
+
+#: admin/activity.php:170
+#: admin/activity.php:271
+#: admin/settings.php:86
+msgid "Default"
+msgstr ""
+
+#: admin/activity.php:178
+#: admin/activity.php:279
+msgid "Opened"
+msgstr ""
+
+#: admin/activity.php:180
+#: admin/activity.php:283
+msgid "Yes"
+msgstr ""
+
+#: admin/activity.php:181
+#: admin/activity.php:284
+msgid "No"
+msgstr ""
+
+#: admin/activity.php:185
+#: admin/stats.php:156
+#: admin/stats.php:176
+#: admin/stats.php:196
+#: admin/stats.php:216
+msgid "Clicks"
+msgstr ""
+
+#: admin/activity.php:196
+#: admin/errors.php:131
+msgid "Back"
+msgstr ""
+
+#: admin/activity.php:200
+#: admin/errors.php:135
+msgid "Next"
+msgstr ""
+
+#: admin/activity.php:210
+#: admin/activity.php:313
+#: admin/errors.php:145
+#: admin/errors.php:185
+#: admin/stats.php:238
+#: admin/stats.php:264
+msgid "Search"
+msgstr ""
+
+#: admin/activity.php:216
+#: admin/errors.php:151
+#: admin/stats.php:244
+msgid "From"
+msgstr ""
+
+#: admin/activity.php:222
+#: admin/errors.php:100
+#: admin/errors.php:157
+#: admin/stats.php:250
+msgid "To"
+msgstr ""
+
+#: admin/activity.php:232
+#: admin/activity.php:240
+#: admin/activity.php:248
+msgid "Exact Match"
+msgstr ""
+
+#: admin/activity.php:289
+msgid "Page Size"
+msgstr ""
+
+#: admin/activity.php:293
+msgid ""
+"Search results are "
+"paginated. This value "
+"indicates how much you "
+"want to see per page."
+msgstr ""
+
+#: admin/activity.php:297
+#: admin/errors.php:169
+msgid "Order By"
+msgstr ""
+
+#: admin/activity.php:305
+#: admin/errors.php:177
+msgid "ASC"
+msgstr ""
+
+#: admin/activity.php:306
+#: admin/errors.php:178
+msgid "DESC"
+msgstr ""
+
+#: admin/activity.php:335
+#: lib/blobfolio/wp/wh/admin.php:919
+msgid "Build Options"
+msgstr ""
+
+#: admin/activity.php:339
+msgid "Data Used"
+msgstr ""
+
+#: admin/errors.php:63
+msgid ""
+"Well-Handled: Send Errors"
+msgstr ""
+
+#: admin/errors.php:66
+msgid ""
+"The errors are being "
+"fetched. Hold tight."
+msgstr ""
+
+#: admin/errors.php:75
+msgid "Send Errors"
+msgstr ""
+
+#: admin/errors.php:79
+msgid ""
+"No errors matched the "
+"search. Sorry."
+msgstr ""
+
+#: admin/errors.php:85
+msgid "Error"
+msgstr ""
+
+#: admin/errors.php:108
+msgid "Headers"
+msgstr ""
+
+#: admin/errors.php:114
+msgid "Attachments"
+msgstr ""
+
+#: admin/errors.php:163
+msgid "Items/Page"
+msgstr ""
+
+#: admin/help.php:87
+msgid ""
+"The reference files are "
+"missing."
+msgstr ""
+
+#: admin/help.php:102
+msgid "Well-Handled: Help"
+msgstr ""
+
+#: admin/help.php:132
+msgid "Quick Links"
+msgstr ""
+
+#: admin/pro.php:32
+msgid ""
+"Well-Handled: Premium "
+"License"
+msgstr ""
+
+#: admin/pro.php:38
+msgid ""
+"Please ask your system "
+"administrator to enable "
+"the OpenSSL PHP "
+"extension. Without this, "
+"your site will be unable "
+"to decode and validate "
+"the license details "
+"itself. In the meantime, "
+"Well-Handled will try to "
+"offload this task to its "
+"own server. This should "
+"get the job done, but "
+"won't be as efficient "
+"and could impact "
+"performance a bit."
+msgstr ""
+
+#: admin/pro.php:43
+msgid ""
+"Your license has been "
+"saved!"
+msgstr ""
+
+#: admin/pro.php:52
+msgid "License Key"
+msgstr ""
+
+#: admin/pro.php:56
+#: admin/settings-data.php:196
+#: admin/settings-queue.php:143
+#: admin/settings-roles.php:93
+#: admin/settings.php:286
+msgid "Save"
+msgstr ""
+
+#: admin/pro.php:66
+msgid "The Goodies"
+msgstr ""
+
+#: admin/pro.php:72
+#: lib/blobfolio/wp/wh/admin.php:1030
+#, php-format
+msgid ""
+"Curious what happens to "
+"your beautiful "
+"transactional emails "
+"after they're sent? With "
+"a %s you can track open "
+"rates and clicks, search "
+"send history, and even "
+"view full message "
+"content."
+msgstr ""
+
+#: admin/pro.php:73
+#: lib/blobfolio/wp/wh/admin.php:689
+#: lib/blobfolio/wp/wh/admin.php:690
+#: lib/blobfolio/wp/wh/admin.php:1031
+msgid "Pro License"
+msgstr ""
+
+#: admin/pro.php:78
+#: lib/blobfolio/wp/wh/admin.php:1036
+#, php-format
+msgid ""
+"To learn more, visit %s."
+msgstr ""
+
+#: admin/pro.php:86
+msgid "Your License"
+msgstr ""
+
+#: admin/pro.php:91
+msgid "Created"
+msgstr ""
+
+#: admin/pro.php:95
+msgid "Updated"
+msgstr ""
+
+#: admin/pro.php:99
+msgid "Revoked"
+msgstr ""
+
+#: admin/pro.php:107
+msgid "Company"
+msgstr ""
+
+#: admin/pro.php:115
+msgid "Type"
+msgstr ""
+
+#: admin/pro.php:119
+msgid "Thing"
+msgstr ""
+
+#: admin/pro.php:123
+msgid "Domain(s)"
+msgstr ""
+
+#: admin/pro.php:129
+msgid "Help"
+msgstr ""
+
+#: admin/pro.php:131
+msgid ""
+"Thanks for going Pro!"
+msgstr ""
+
+#: admin/pro.php:134
+#, php-format
+msgid ""
+"If you have any "
+"questions or need help, "
+"visit %s."
+msgstr ""
+
+#: admin/pro.php:155
+#, php-format
+msgid "Impressed with %s?"
+msgstr ""
+
+#: admin/pro.php:156
+#, php-format
+msgid ""
+"You might also enjoy "
+"these other fine and "
+"practical plugins from "
+"%s."
+msgstr ""
+
+#: admin/settings-data.php:61
+#: admin/settings-queue.php:46
+#: admin/settings-roles.php:35
+#: admin/settings.php:41
+msgid ""
+"Well-Handled: Settings & "
+"Tools"
+msgstr ""
+
+#: admin/settings-data.php:68
+#: admin/settings-queue.php:53
+#: admin/settings-roles.php:42
+#: admin/settings.php:48
+msgid ""
+"Your settings have been "
+"saved!"
+msgstr ""
+
+#: admin/settings-data.php:71
+msgid ""
+"The database has been "
+"pruned!"
+msgstr ""
+
+#: admin/settings-data.php:93
+msgid "Data & Tracking"
+msgstr ""
+
+#: admin/settings-data.php:100
+msgid "Data to Keep"
+msgstr ""
+
+#: admin/settings-data.php:104
+msgid "Nothing"
+msgstr ""
+
+#: admin/settings-data.php:105
+msgid "Metadata"
+msgstr ""
+
+#: admin/settings-data.php:106
+#: admin/settings-data.php:220
+msgid "Everything"
+msgstr ""
+
+#: admin/settings-data.php:109
+msgid ""
+"No information about "
+"sent messages will be "
+"stored."
+msgstr ""
+
+#: admin/settings-data.php:111
+msgid ""
+"Metadata like to/from, "
+"send times, etc., will "
+"be stored, but not the "
+"messages themselves."
+msgstr ""
+
+#: admin/settings-data.php:113
+msgid ""
+"Full copies of each sent "
+"message (except for "
+"attachments) will be "
+"stored."
+msgstr ""
+
+#: admin/settings-data.php:117
+msgid "Retention"
+msgstr ""
+
+#: admin/settings-data.php:119
+msgid "For X Days"
+msgstr ""
+
+#: admin/settings-data.php:122
+msgid ""
+"If you would rather not "
+"store *full* message "
+"content indefinitely, "
+"enter the desired "
+"retention period above "
+"(or \"0\" to keep it "
+"forever)."
+msgstr ""
+
+#: admin/settings-data.php:127
+msgid "Tracking"
+msgstr ""
+
+#: admin/settings-data.php:132
+msgid "Track Opens"
+msgstr ""
+
+#: admin/settings-data.php:136
+msgid ""
+"Open rates are tracked "
+"automatically when you "
+"opt to keep metadata or "
+"full message content. "
+"This information, "
+"however, is often "
+"unavailable because of "
+"privacy controls "
+"employed by email "
+"software. Enabling click "
+"tracking (below) will "
+"help improve this metric."
+msgstr ""
+
+#: admin/settings-data.php:147
+msgid "Track Clicks"
+msgstr ""
+
+#: admin/settings-data.php:151
+msgid ""
+"Click-tracking is "
+"achieved by rewriting "
+"all links within an "
+"email to point back to "
+"your site (with a unique "
+"identifier). When a "
+"recipient clicks a link, "
+"Well-Handled records the "
+"hit and then seamlessly "
+"redirects them to the "
+"intended link target."
+msgstr ""
+
+#: admin/settings-data.php:162
+msgid "Log Errors"
+msgstr ""
+
+#: admin/settings-data.php:166
+msgid ""
+"\"Error\", in this case, "
+"being anything that "
+"prevents a message from "
+"being compiled and "
+"handed off to your "
+"outgoing mailserver. "
+"This includes things "
+"like template errors, "
+"malformed recipients, "
+"and authentication "
+"errors."
+msgstr ""
+
+#: admin/settings-data.php:170
+msgid ""
+"The ultimate "
+"deliverability of a "
+"message is not something "
+"this plugin can detect, "
+"however if your \"from\" "
+"address resolves to a "
+"real mailbox, bounce "
+"notifications should "
+"wind up there."
+msgstr ""
+
+#: admin/settings-data.php:185
+msgid "Housekeeping"
+msgstr ""
+
+#: admin/settings-data.php:189
+msgid ""
+"Remove Data When "
+"Uninstalling"
+msgstr ""
+
+#: admin/settings-data.php:192
+msgid ""
+"If the above is checked, "
+"*all* plugin data "
+"(settings, templates, "
+"messages, etc.) will be "
+"removed in the event you "
+"decide to uninstall Well-"
+"Handled. Otherwise, that "
+"data will be retained so "
+"you can pick up where "
+"you left off should you "
+"ever re-install the "
+"plugin."
+msgstr ""
+
+#: admin/settings-data.php:209
+msgid "Prune Old Data"
+msgstr ""
+
+#: admin/settings-data.php:213
+msgid ""
+"A lot of data can be "
+"accrued over time. If "
+"needed, you can manually "
+"remove records that have "
+"outlived their "
+"usefulness to free up "
+"some space."
+msgstr ""
+
+#: admin/settings-data.php:225
+#: admin/settings-data.php:249
+#: admin/settings-data.php:271
+msgid "Older Than X Days"
+msgstr ""
+
+#: admin/settings-data.php:230
+#, php-format
+msgid ""
+"This will remove *all* "
+"records, metadata, and "
+"stats for messages sent "
+"more than %s days ago."
+msgstr ""
+
+#: admin/settings-data.php:235
+#: admin/settings-data.php:237
+#: admin/settings-data.php:259
+#: admin/settings-data.php:281
+msgid "Warning"
+msgstr ""
+
+#: admin/settings-data.php:235
+#: admin/settings-data.php:259
+#: admin/settings-data.php:281
+msgid ""
+"This cannot be undone!"
+msgstr ""
+
+#: admin/settings-data.php:237
+msgid ""
+"If recipients have saved "
+"any of these old "
+"messages for reference, "
+"the links within them "
+"will stop working."
+msgstr ""
+
+#: admin/settings-data.php:239
+#: admin/settings-data.php:261
+#: admin/settings-data.php:283
+msgid "Delete"
+msgstr ""
+
+#: admin/settings-data.php:245
+#: admin/settings-roles.php:78
+msgid "Content"
+msgstr ""
+
+#: admin/settings-data.php:254
+#, php-format
+msgid ""
+"This will remove the "
+"message content — but "
+"leave metadata, click "
+"stats, etc., alone — for "
+"any message sent more "
+"than %s days ago."
+msgstr ""
+
+#: admin/settings-data.php:267
+#: lib/blobfolio/wp/wh/admin.php:593
+#: lib/blobfolio/wp/wh/admin.php:594
+msgid "Errors"
+msgstr ""
+
+#: admin/settings-data.php:276
+#, php-format
+msgid ""
+"This will remove all "
+"logged errors created "
+"more than %s days ago."
+msgstr ""
+
+#: admin/settings-queue.php:74
+msgid "Send Scheduling"
+msgstr ""
+
+#: admin/settings-queue.php:78
+msgid ""
+"By default, Well-Handled "
+"sends messages "
+"immediately. This is "
+"recommended for most "
+"users, but if the send "
+"process adds too much "
+"time to the overall "
+"script execution "
+"(because of e.g. slow "
+"SMTP authentication), "
+"messages can instead be "
+"added to a queue and "
+"processed en masse at "
+"set intervals."
+msgstr ""
+
+#: admin/settings-queue.php:82
+msgid ""
+"No coding changes are "
+"required either way, "
+"however if your messages "
+"include attached files, "
+"those files will need to "
+"still exist on the "
+"system at the time the "
+"message is actually sent."
+msgstr ""
+
+#: admin/settings-queue.php:86
+msgid ""
+"Enable Sending Queue"
+msgstr ""
+
+#: admin/settings-queue.php:93
+msgid "Frequency"
+msgstr ""
+
+#: admin/settings-queue.php:106
+msgid ""
+"WordPress' built-in job "
+"scheduler is not 100% "
+"precise. See the "
+"configuration "
+"instructions at right to "
+"have it run more "
+"regularly."
+msgstr ""
+
+#: admin/settings-queue.php:109
+msgid ""
+"This frequency provides "
+"a target time only. Jobs "
+"will not be run until "
+"your crontab rule "
+"executes."
+msgstr ""
+
+#: admin/settings-queue.php:115
+msgid "Batch Size"
+msgstr ""
+
+#: admin/settings-queue.php:120
+msgid ""
+"This defines the maximum "
+"number of messages that "
+"will be processed at one "
+"time."
+msgstr ""
+
+#: admin/settings-queue.php:123
+msgid "Be careful"
+msgstr ""
+
+#: admin/settings-queue.php:125
+#, php-format
+msgid ""
+"WordPress must be able "
+"to process this number "
+"of messages in *under %s "
+"%s %s* to avoid the jobs "
+"overlapping (which could "
+"be bad)."
+msgstr ""
+
+#: admin/settings-queue.php:127
+#: lib/blobfolio/wp/wh/ajax.php:569
+msgid "minute"
+msgstr ""
+
+#: admin/settings-queue.php:128
+#: lib/blobfolio/wp/wh/ajax.php:569
+msgid "minutes"
+msgstr ""
+
+#: admin/settings-queue.php:133
+msgid ""
+"It is recommended you "
+"start with a "
+"conservative value and "
+"nudge it upwards based "
+"on the realworld "
+"execution times you see."
+msgstr ""
+
+#: admin/settings-queue.php:156
+msgid "Current Queue"
+msgstr ""
+
+#: admin/settings-queue.php:158
+msgid ""
+"There are no messages in "
+"the queue right now."
+msgstr ""
+
+#: admin/settings-queue.php:163
+msgid "Queued"
+msgstr ""
+
+#: admin/settings-queue.php:167
+msgid "Due Now"
+msgstr ""
+
+#: admin/settings-queue.php:171
+msgid "Next Job"
+msgstr ""
+
+#: admin/settings-queue.php:183
+msgid "CRON Configuration"
+msgstr ""
+
+#: admin/settings-queue.php:187
+#, php-format
+msgid ""
+"In order to have "
+"WordPress jobs process "
+"more regularly (and "
+"frequently), it is "
+"necessary to disable the "
+"built-in job runner and "
+"use your server's %s "
+"handler instead."
+msgstr ""
+
+#: admin/settings-queue.php:191
+msgid ""
+"If this is too technical "
+"or if your server "
+"environment does not "
+"provide crontab access, "
+"please do not use the "
+"queue feature."
+msgstr ""
+
+#: admin/settings-queue.php:195
+#, php-format
+msgid ""
+"First, open `%s` and add "
+"the following anywhere "
+"in the middle"
+msgstr ""
+
+#: admin/settings-queue.php:203
+msgid ""
+"Then add the following "
+"job to your crontab"
+msgstr ""
+
+#: admin/settings-roles.php:63
+#: lib/blobfolio/wp/wh/admin.php:675
+msgid "User Access"
+msgstr ""
+
+#: admin/settings-roles.php:66
+msgid ""
+"By default, only site "
+"administrators can "
+"manage Well-Handled "
+"templates and view "
+"stats. But if you "
+"believe in delegation, "
+"you can grant access to "
+"lower-level users."
+msgstr ""
+
+#: admin/settings-roles.php:70
+#, php-format
+msgid ""
+"If enabled, the users "
+"will be granted the %s "
+"for their respective "
+"roles."
+msgstr ""
+
+#: admin/settings-roles.php:71
+msgid "usual capabilities"
+msgstr ""
+
+#: admin/settings-roles.php:77
+msgid "Role"
+msgstr ""
+
+#: admin/settings.php:51
+msgid ""
+"A test message has been "
+"sent! Keep your eyes "
+"peeled."
+msgstr ""
+
+#: admin/settings.php:53
+msgid ""
+"Darn, the test send "
+"didn't work."
+msgstr ""
+
+#: admin/settings.php:75
+msgid "Mail Settings"
+msgstr ""
+
+#: admin/settings.php:93
+msgid ""
+"By default, WordPress "
+"uses the web server to "
+"send email. If that "
+"works, you're done!"
+msgstr ""
+
+#: admin/settings.php:96
+msgid ""
+"SMTP can be used to send "
+"*authenticated* email "
+"from an actual email "
+"address. It works the "
+"same way for WordPress "
+"as it does for a "
+"standalone email program "
+"on your desktop or "
+"phone; just plug in the "
+"necessary information."
+msgstr ""
+
+#: admin/settings.php:101
+#, php-format
+msgid ""
+"This uses the %s API to "
+"send messages through "
+"your Mandrill account. "
+"Template processing is "
+"done entirely through "
+"the plugin; Mandrill is "
+"just given the completed "
+"message for sending."
+msgstr ""
+
+#: admin/settings.php:109
+#, php-format
+msgid ""
+"This uses the %s API to "
+"send *authenticated* "
+"email through your AWS "
+"account. This is usually "
+"much cheaper and much "
+"faster than SMTP."
+msgstr ""
+
+#: admin/settings.php:119
+#: admin/settings.php:216
+#: admin/settings.php:263
+msgid "From Email"
+msgstr ""
+
+#: admin/settings.php:124
+msgid ""
+"Most email providers "
+"require this to be the "
+"same as the login user."
+msgstr ""
+
+#: admin/settings.php:130
+#: admin/settings.php:227
+#: admin/settings.php:274
+msgid "From Name"
+msgstr ""
+
+#: admin/settings.php:139
+msgid "SMTP User"
+msgstr ""
+
+#: admin/settings.php:144
+msgid ""
+"This is often, but not "
+"always, a complete email "
+"address."
+msgstr ""
+
+#: admin/settings.php:150
+msgid "SMTP Pass"
+msgstr ""
+
+#: admin/settings.php:157
+#, php-format
+msgid ""
+"mail Users: not all "
+"Google accounts accept "
+"user/password logins for "
+"SMTP by default. You "
+"might need to set up an "
+"%s."
+msgstr ""
+
+#: admin/settings.php:166
+msgid "SMTP Server"
+msgstr ""
+
+#: admin/settings.php:175
+msgid "SMTP Port"
+msgstr ""
+
+#: admin/settings.php:188
+msgid "Encryption"
+msgstr ""
+
+#: admin/settings.php:201
+msgid "Endpoint"
+msgstr ""
+
+#: admin/settings.php:210
+msgid ""
+"If your SES endpoint "
+"does not support API "
+"connections (not all do, "
+"unfortunately), use SMTP "
+"instead."
+msgstr ""
+
+#: admin/settings.php:221
+msgid ""
+"This address must be "
+"verified with Amazon for "
+"the specific endpoint "
+"being used."
+msgstr ""
+
+#: admin/settings.php:236
+msgid "Access Key"
+msgstr ""
+
+#: admin/settings.php:245
+msgid "Secret Key"
+msgstr ""
+
+#: admin/settings.php:254
+msgid "API Key"
+msgstr ""
+
+#: admin/settings.php:268
+msgid ""
+"This address must be "
+"verified with Mailchimp "
+"for sending."
+msgstr ""
+
+#: admin/settings.php:299
+msgid "Test Send"
+msgstr ""
+
+#: admin/settings.php:302
+msgid "Test Mail Settings"
+msgstr ""
+
+#: admin/settings.php:307
+#, php-format
+msgid ""
+"Click the above button "
+"to send a test message "
+"to %s using the saved "
+"settings (hint: if you "
+"just now made a change, "
+"save that first)."
+msgstr ""
+
+#: admin/stats.php:55
+msgid "Well-Handled: Stats"
+msgstr ""
+
+#: admin/stats.php:58
+msgid ""
+"The stats are being "
+"crunched. Hold tight."
+msgstr ""
+
+#: admin/stats.php:59
+msgid ""
+"No stats were found for "
+"this period."
+msgstr ""
+
+#: admin/stats.php:70
+msgid "Send Volume"
+msgstr ""
+
+#: admin/stats.php:83
+msgid "This Month"
+msgstr ""
+
+#: admin/stats.php:85
+msgid "This Year"
+msgstr ""
+
+#: admin/stats.php:87
+msgid "Year to Year"
+msgstr ""
+
+#: admin/stats.php:94
+msgid "Sent by Year"
+msgstr ""
+
+#: admin/stats.php:109
+msgid "Sent This Year"
+msgstr ""
+
+#: admin/stats.php:124
+msgid "Sent This Month"
+msgstr ""
+
+#: admin/stats.php:144
+#: admin/stats.php:195
+msgid "Domain"
+msgstr ""
+
+#: admin/stats.php:146
+#: admin/stats.php:215
+msgid "URL"
+msgstr ""
+
+#: admin/stats.php:150
+msgid "Clicks By Template"
+msgstr ""
+
+#: admin/stats.php:170
+msgid ""
+"Clicks By Email Subject"
+msgstr ""
+
+#: admin/stats.php:190
+msgid "Clicks By Domain"
+msgstr ""
+
+#: admin/stats.php:210
+msgid "Clicks By URL"
+msgstr ""
+
+#: admin/stats.php:256
+msgid "Limit Lists"
+msgstr ""
+
+#: admin/stats.php:279
+msgid "Breakdown"
+msgstr ""
+
+#: admin/stats.php:284
+msgid "Period"
+msgstr ""
+
+#: admin/stats.php:287
+msgid "day"
+msgstr ""
+
+#: admin/stats.php:288
+msgid "days"
+msgstr ""
+
+#: admin/stats.php:292
+msgid "Total Sent"
+msgstr ""
+
+#: admin/stats.php:298
+msgid "Daily Avg"
+msgstr ""
+
+#: admin/stats.php:304
+msgid "Recipients"
+msgstr ""
+
+#: admin/stats.php:310
+#: admin/stats.php:350
+msgid "Open Rate"
+msgstr ""
+
+#: admin/stats.php:316
+msgid "Total Clicks"
+msgstr ""
+
+#: admin/stats.php:322
+msgid "Avg Clicks"
+msgstr ""
+
+#: admin/stats.php:328
+msgid "Build Time"
+msgstr ""
+
+#: admin/stats.php:330
+#: admin/stats.php:336
+#: lib/blobfolio/wp/wh/ajax.php:572
+msgid "seconds"
+msgstr ""
+
+#: admin/stats.php:334
+msgid "Send Time"
+msgstr ""
+
+#: admin/stats.php:367
+msgid "Send Methods"
+msgstr ""
+
+#: admin/stats.php:384
+#: lib/blobfolio/wp/wh/custom.php:87
+msgid "Templates"
+msgstr ""
+
+#: admin/stats.php:401
+msgid "Footnotes"
+msgstr ""
+
+#: admin/stats.php:404
+msgid ""
+"CC and BCC recipients "
+"are not counted."
+msgstr ""
+
+#: admin/stats.php:405
+msgid ""
+"For privacy reasons, it "
+"is not always possible "
+"to track when a person "
+"has opened an email. "
+"This metric is likely "
+"under-counted."
+msgstr ""
+
+#: admin/stats.php:406
+msgid ""
+"This is the amount of "
+"time it takes to "
+"generate the raw email "
+"message (compiling the "
+"template, swapping data, "
+"etc.)."
+msgstr ""
+
+#: admin/stats.php:407
+msgid ""
+"This is the amount of "
+"time it takes to hand "
+"off the raw email "
+"message to the outgoing "
+"mailserver (network "
+"lookups, authentication, "
+"etc.)."
+msgstr ""
+
+#: bootstrap-fallback.php:33
+#: lib/blobfolio/wp/wh/admin.php:46
+msgid ""
+"PHP 5.6.0 or newer is "
+"required."
+msgstr ""
+
+#: bootstrap-fallback.php:37
+#: lib/blobfolio/wp/wh/admin.php:50
+msgid ""
+"This plugin cannot be "
+"used on Multi-Site."
+msgstr ""
+
+#: bootstrap-fallback.php:41
+#: lib/blobfolio/wp/wh/admin.php:54
+msgid ""
+"The DOMDocument PHP "
+"extension is required."
+msgstr ""
+
+#: bootstrap-fallback.php:45
+#: lib/blobfolio/wp/wh/admin.php:58
+msgid ""
+"The libxml PHP extension "
+"is required."
+msgstr ""
+
+#: bootstrap-fallback.php:49
+#: lib/blobfolio/wp/wh/admin.php:62
+msgid ""
+"PHP must support basic "
+"hashing algorithms like "
+"SHA512."
+msgstr ""
+
+#: bootstrap-fallback.php:75
+#, php-format
+msgid ""
+"Your server does not "
+"meet the requirements "
+"for running %s. You or "
+"your system "
+"administrator should "
+"take a look at the "
+"following:"
+msgstr ""
+
+#: bootstrap-fallback.php:93
+#, php-format
+msgid ""
+"As a *stopgap*, you can "
+"%s the Well-Handled "
+"plugin to the legacy "
+"*1.5.x* series. The "
+"legacy series *will not* "
+"receive updates or "
+"development support, so "
+"please ultimately plan "
+"to remove the plugin or "
+"upgrade your server "
+"environment."
+msgstr ""
+
+#: bootstrap-fallback.php:94
+msgid "downgrade"
+msgstr ""
+
+#: bootstrap-fallback.php:126
+msgid ""
+"The plugin has been "
+"automatically disabled."
+msgstr ""
+
+#: bootstrap-fallback.php:168
+msgid ""
+"This will downgrade to "
+"the legacy 1.5.5 "
+"release, which is "
+"compatible with PHP 5.4. "
+"Do not upgrade from the "
+"legacy version until "
+"your server meets the "
+"requirements of the "
+"current release."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:94
+msgid ""
+"Well-Handled uses UTF-8 "
+"encoding for all string "
+"output. Your blog is "
+"using a different "
+"encoding, which can "
+"cause text to get "
+"garbled."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:98
+msgid ""
+"The Well-Handled license "
+"is not valid for this "
+"domain or plugin; "
+"premium features have "
+"been disabled."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:102
+msgid ""
+"The recommended PHP "
+"extension OpenSSL is "
+"missing; this will slow "
+"down some operations."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:106
+msgid ""
+"The recommended PHP "
+"extension IMAP is "
+"missing; this will limit "
+"the effectiveness of "
+"certain email operations."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:110
+msgid ""
+"The recommended PHP "
+"extension Intl is "
+"missing; you will not be "
+"able to send messages to "
+"internationalized or "
+"unicode domains."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:122
+#, php-format
+msgid ""
+"Your server does not "
+"meet all the "
+"requirements for running "
+"%s. Things might work "
+"out anyhow, but you or "
+"your system "
+"administrator should "
+"take a look at the "
+"following:"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:494
+#: lib/blobfolio/wp/wh/admin.php:495
+#: lib/blobfolio/wp/wh/admin.php:837
+msgid "Reference"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:527
+#: lib/blobfolio/wp/wh/admin.php:528
+msgid "Activity"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:627
+#: lib/blobfolio/wp/wh/admin.php:628
+msgid "Settings"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:672
+msgid "Sending"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:673
+msgid "Data/Tracking"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:674
+msgid "Scheduling"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:828
+#: lib/blobfolio/wp/wh/admin.php:888
+msgid "Slug"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:837
+msgid "Your Code!"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:846
+#: lib/blobfolio/wp/wh/admin.php:988
+msgid "Editor Theme"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:856
+msgid "Preview!"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:867
+msgid "Pro Licensing"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:891
+msgid ""
+"This unique slug is used "
+"to retrieve the template "
+"programmatically. If you "
+"change this, be sure and "
+"update your code."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:912
+msgid "Test Data"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:915
+msgid ""
+"Enter your desired test "
+"data above in JSON "
+"format to make the "
+"preview more meaningful."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:943
+msgid "Email It?"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:948
+msgid "Send To"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:952
+msgid "Generate Preview"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:996
+msgid ""
+"Found the perfect "
+"editor? Click the button "
+"below to remember your "
+"choice."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:998
+msgid "Make Default"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:1012
+msgid "Preview"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:1067
+msgid ""
+"The form had expired or "
+"was invalid. Please try "
+"again."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/admin.php:1081
+msgid ""
+"A slug for the template "
+"is required."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:95
+msgid ""
+"The form had expired. "
+"Please reload the page "
+"and try again."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:122
+msgid ""
+"You do not have access "
+"to preview templates."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:153
+msgid ""
+"The test data is not "
+"valid JSON."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:160
+msgid ""
+"The template is empty; "
+"there's nothing to show."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:167
+msgid ""
+"The template could not "
+"be built."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:172
+#: lib/blobfolio/wp/wh/template.php:266
+msgid "error"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:237
+msgid ""
+"Well-Handled Template"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:242
+msgid "TEST"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:263
+#: lib/blobfolio/wp/wh/ajax.php:271
+msgid ""
+"A theme is required."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:299
+msgid ""
+"You do not have access "
+"to manage licensing."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:316
+msgid ""
+"The license is not valid."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:349
+msgid ""
+"You do not have access "
+"to prune data."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:357
+msgid ""
+"Invalid data type for "
+"pruning."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:370
+#, php-format
+msgid ""
+"For safety reasons data "
+"younger than %d days "
+"cannot be deleted."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:410
+#: lib/blobfolio/wp/wh/ajax.php:440
+#: lib/blobfolio/wp/wh/ajax.php:476
+#: lib/blobfolio/wp/wh/ajax.php:509
+#: lib/blobfolio/wp/wh/ajax.php:549
+msgid ""
+"You do not have access "
+"to manage settings."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:563
+msgid "Any minute now..."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:572
+msgid "second"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:590
+msgid ""
+"You do not have access "
+"to test the mail "
+"settings."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:602
+msgid ""
+"[TEST] Well-Handled Mail "
+"Settings"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:613
+msgid ""
+"No specific error was "
+"returned; an "
+"authentication failure "
+"or server/port conflict "
+"is the most likely "
+"culprit."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:659
+#: lib/blobfolio/wp/wh/ajax.php:787
+msgid ""
+"You are not authorized "
+"to view send errors."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:981
+msgid ""
+"You are not authorized "
+"to view stats."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/ajax.php:987
+msgid ""
+"There are no stored "
+"messages."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:52
+#: lib/blobfolio/wp/wh/custom.php:62
+msgid "Tags"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:53
+msgid "Tag"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:54
+msgid "Search Tags"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:55
+msgid "All Tags"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:56
+msgid "Parent Tag"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:58
+msgid "Edit Tag"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:59
+msgid "Update Tag"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:60
+msgid "Add New Tag"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:61
+msgid "New Tag Name"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:91
+msgid "Add New"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:92
+msgid "Add New Template"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:93
+msgid "New Template"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:94
+msgid "Edit Template"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:95
+msgid "View Template"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:96
+msgid "All Templates"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:97
+msgid "Search Templates"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:98
+msgid "Parent Templates"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:99
+msgid "No Templates Found."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/custom.php:100
+msgid ""
+"No Templates Found In "
+"Trash."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/license.php:478
+#: lib/blobfolio/wp/wh/message.php:182
+#: lib/blobfolio/wp/wh/message/error.php:106
+#: lib/blobfolio/wp/wh/message/link.php:134
+#: lib/blobfolio/wp/wh/template.php:220
+#, php-format
+msgid ""
+"The required method \"%s"
+"\" does not exist for %s"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/message.php:911
+#: lib/blobfolio/wp/wh/message.php:942
+#: lib/blobfolio/wp/wh/message.php:958
+#: lib/blobfolio/wp/wh/message.php:1062
+#: lib/blobfolio/wp/wh/message.php:1153
+#: lib/blobfolio/wp/wh/message.php:1159
+#: lib/blobfolio/wp/wh/message.php:1168
+#: lib/blobfolio/wp/wh/message.php:1201
+#: lib/blobfolio/wp/wh/message.php:1206
+#: lib/blobfolio/wp/wh/message.php:1246
+#: lib/blobfolio/wp/wh/message.php:1251
+#: lib/blobfolio/wp/wh/message.php:1259
+#: lib/blobfolio/wp/wh/message.php:1264
+msgid "Send Failed"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/message.php:912
+msgid ""
+"Could not build links."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/message.php:943
+#: lib/blobfolio/wp/wh/message.php:959
+msgid ""
+"Could not build message"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/message.php:1063
+msgid "Missing API key."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/message.php:1154
+msgid ""
+"The message was rejected"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/message.php:1169
+msgid ""
+"An invalid response was "
+"returned."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/message.php:1202
+#: lib/blobfolio/wp/wh/message.php:1207
+msgid ""
+"Could not initialize SES"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/message.php:1252
+msgid ""
+"Non-specific failure."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:258
+msgid "Processing started."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:267
+#, php-format
+msgid ""
+"Well-Handled %s "
+"exception: %s"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:279
+#, php-format
+msgid ""
+"Processing completed in "
+"%f seconds."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:315
+msgid "Working template"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:325
+#: lib/blobfolio/wp/wh/template.php:357
+#: lib/blobfolio/wp/wh/template.php:363
+#: lib/blobfolio/wp/wh/template.php:388
+#: lib/blobfolio/wp/wh/template.php:456
+#: lib/blobfolio/wp/wh/template.php:462
+#: lib/blobfolio/wp/wh/template.php:479
+#: lib/blobfolio/wp/wh/template.php:485
+#: lib/blobfolio/wp/wh/template.php:493
+#: lib/blobfolio/wp/wh/template.php:518
+#: lib/blobfolio/wp/wh/template.php:530
+#: lib/blobfolio/wp/wh/template.php:536
+#: lib/blobfolio/wp/wh/template.php:552
+#: lib/blobfolio/wp/wh/template.php:562
+#: lib/blobfolio/wp/wh/template.php:568
+#: lib/blobfolio/wp/wh/template.php:579
+#: lib/blobfolio/wp/wh/template.php:589
+#: lib/blobfolio/wp/wh/template.php:600
+msgid "Build Failed"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:326
+#: lib/blobfolio/wp/wh/template.php:601
+msgid "filter(s)"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:342
+msgid "Parsed options."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:389
+msgid "Invalid HTML"
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:394
+msgid "HTML validated."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:451
+msgid "Parsed links."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:476
+msgid "Comments removed."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:494
+msgid "Comments."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:519
+msgid "CSS inlining."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:553
+msgid "Removing styles."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:559
+msgid "Removed style tags."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:580
+msgid ""
+"Collapsing whitespace."
+msgstr ""
+
+#: lib/blobfolio/wp/wh/template.php:590
+msgid "No content."
+msgstr ""
